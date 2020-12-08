@@ -1,0 +1,29 @@
+title:               Digital Dialogue by Hoyeol Kim
+url:                 https://elibooklover.github.io
+baseurl:             ""
+
+markdown:            kramdown
+highlighter:         rouge
+
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+
+permalink:           pretty
+paginate:            5
+paginate_path:       /posts/:num
+
+blog:
+  truncated_preview: false
+
+sass:
+  sass_dir:          _sass
+  style:             :compressed
+
+author:
+  name:              Hoyeol Kim
+  url:               elibooklover.github.io
+  email:             elibooklover@tamu.edu
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist

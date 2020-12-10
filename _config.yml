@@ -23,6 +23,8 @@ author:
   url:               elibooklover.github.io
   email:             elibooklover@tamu.edu
 
+google_analytics: G-C38MGC5VG8
+
 plugins:
   - jekyll-coffeescript
   - jekyll-paginate

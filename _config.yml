@@ -18,7 +18,7 @@ email: 'hoyeol.kim@proton.me'
 description: "I'm a mobile developer, currently living in Texas."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elibooklover.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-linkedin_username: 'linkedin.com/in/hoyeol-kim-phd-82723663/'
+linkedin_username: "in/hoyeol-kim-phd-82723663/"
 twitter_username: 'elibooklover'
 github_username: 'elibooklover'
 

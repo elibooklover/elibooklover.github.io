@@ -5,23 +5,25 @@
     <description>I&apos;m a mobile developer, currently living in Texas.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 May 2024 17:19:31 -0500</pubDate>
-    <lastBuildDate>Tue, 21 May 2024 17:19:31 -0500</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 22:55:13 -0500</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 22:55:13 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
-        <title>SafeKey</title>
+        <title>SafeKey - Password Manager</title>
         <description>
 </description>
-        <pubDate>Mon, 01 Jan 2024 15:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2024/01/01/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2024/01/01/phantom-jekyll-template.html</guid>
+        <pubDate>Mon, 20 May 2024 02:15:00 -0500</pubDate>
+        <link>http://localhost:4000/ios/app/2024/05/20/safekey.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ios/app/2024/05/20/safekey.html</guid>
         
         <category>iOS_Development</category>
         
         <category>Swift</category>
         
         <category>SwiftUI</category>
+        
+        <category>UIKit</category>
         
         <category>SwiftData</category>
         
@@ -32,9 +34,78 @@
         <category>Local_Auth</category>
         
         
-        <category>development</category>
+        <category>iOS</category>
         
-        <category>design</category>
+        <category>App</category>
+        
+      </item>
+    
+      <item>
+        <title>K-Town Rewards</title>
+        <description>
+</description>
+        <pubDate>Sat, 27 Apr 2024 10:56:00 -0500</pubDate>
+        <link>http://localhost:4000/ios_app/2024/04/27/ktownrewards.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ios_app/2024/04/27/ktownrewards.html</guid>
+        
+        <category>iOS_Development</category>
+        
+        <category>Swift</category>
+        
+        <category>UIKit</category>
+        
+        <category>RESTful_API</category>
+        
+        <category>Firebase</category>
+        
+        
+        <category>iOS_App</category>
+        
+      </item>
+    
+      <item>
+        <title>NeonLED - LED Banner</title>
+        <description>
+</description>
+        <pubDate>Thu, 11 May 2023 10:56:00 -0500</pubDate>
+        <link>http://localhost:4000/ios/app/2023/05/11/neonled.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ios/app/2023/05/11/neonled.html</guid>
+        
+        <category>iOS_Development</category>
+        
+        <category>Swift</category>
+        
+        <category>SwiftUI</category>
+        
+        <category>UIKit</category>
+        
+        <category>Localization</category>
+        
+        
+        <category>iOS</category>
+        
+        <category>App</category>
+        
+      </item>
+    
+      <item>
+        <title>Bloc Jams Angular</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 08:15:00 -0600</pubDate>
+        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>Sass</category>
+        
+        <category>Grunt</category>
+        
+        
+        <category>development</category>
         
       </item>
     

@@ -260,7 +260,7 @@ button.btn, input.btn {
     
     @include bp-xsmall {
       margin-left: 0;
-      margin-top: 2em; // Adjust margin for smaller screens
+      margin-top: 2em;
     }
     
     h3.title {
@@ -325,18 +325,16 @@ button.btn, input.btn {
     }
     
     @include bp-medium {
-      display: inline; // Default behavior for medium screens and larger
-      margin-top: 0; // Reset margin for medium and larger screens
+      display: inline;
+      margin-top: 0;
     }
     
     @include bp-large {
-      display: inline; // Default behavior for medium and larger screens
-      margin-top: 0; // Reset margin for medium and larger screens
+      display: inline;
+      margin-top: 0;
     }
   }
 }
-
-// vertically center content of post rows
 .post-row {
     align-items: center;
     display: flex;

@@ -24,29 +24,59 @@
   transition: $args;
 }
 
-@mixin bp-large {
-  @media only screen and (min-width: 1200px) {
-    @content;
-  }
-}
+// Updated breakpoints
+$bp-xsmall: 480px;
+$bp-small: 768px;
+$bp-medium: 992px;
+$bp-large: 1200px;
 
-@mixin bp-medium {
-  @media only screen and (min-width: 992px) and (max-width: 1195px) {
+// Mixin for media queries
+@mixin bp-xsmall {
+  @media only screen and (max-width: $bp-xsmall) {
     @content;
   }
 }
 
 @mixin bp-small {
-  @media only screen and (min-width: 770px) and (max-width: 990px) {
+  @media only screen and (min-width: 769px) and (max-width: $bp-small) {
     @content;
   }
 }
 
-@mixin bp-xsmall {
-  @media only screen and (max-width: 768px) {
+@mixin bp-medium {
+  @media only screen and (min-width: 993px) and (max-width: $bp-medium) {
     @content;
   }
 }
+
+@mixin bp-large {
+  @media only screen and (min-width: $bp-large) {
+    @content;
+  }
+}
+// @mixin bp-large {
+//   @media only screen and (min-width: 1200px) {
+//     @content;
+//   }
+// }
+
+// @mixin bp-medium {
+//   @media only screen and (min-width: 992px) and (max-width: 1195px) {
+//     @content;
+//   }
+// }
+
+// @mixin bp-small {
+//   @media only screen and (min-width: 770px) and (max-width: 990px) {
+//     @content;
+//   }
+// }
+
+// @mixin bp-xsmall {
+//   @media only screen and (max-width: 768px) {
+//     @content;
+//   }
+// }
 
 /* Functions */
 

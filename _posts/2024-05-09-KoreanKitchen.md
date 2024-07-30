@@ -4,7 +4,7 @@ position: right
 title: 'KoreanKitchen'
 date: 2024-03-20 14:15:00
 categories: Android_App
-tags: Kotlin JSON Glide Parcelable RecyclerView CardView
+tags: Kotlin Android_Development JSON Glide Parcelable RecyclerView CardView
 featured_image: '/img/posts/04_KoreanKitchen.png'
 project_link: 'https://github.com/elibooklover/Kotlin-Projects'
 button_icon: 'github'

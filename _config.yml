@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Hoyeol Kim."
 email: 'hoyeol.kim@proton.me'
-description: "I'm a mobile developer, currently living in Texas."
+description: "I'm currently living in Texas and working on AI Data at AWS. I am a data scientist and a mobile developer. I enjoy working on mobile apps during my free time."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elibooklover.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: "in/hoyeol-kim-phd-82723663/"

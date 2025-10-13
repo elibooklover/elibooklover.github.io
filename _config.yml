@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Hoyeol Kim."
 email: 'hoyeolkim7@gmail.com'
-description: "I currently live in Texas and work on AI data for AWS Bedrock services.\nIn my free time, I enjoy developing mobile apps."
+description: "I currently live in Dallas, Texas, and work as an AI QA Engineer at Samsung Electronics America. Previously, I worked on AI data at Amazon Web Services after completing my PhD.\nIn my free time, I enjoy developing mobile apps."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elibooklover.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: "in/hoyeol-kim-phd-82723663/"
@@ -94,7 +94,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2024 Hoyeol Kim'
+footer_text: '© 2025 Hoyeol Kim'
 admin_name: 'Hoyeol Kim'
 google_analytics: "G-C38MGC5VG8" # Update with your own tracking ID
 enable_contact: false

@@ -6,10 +6,6 @@ permalink: /about/
 
 ## Hey, I'm Hoyeol.
 
-I'm an AI Quality Assurance Engineer based in Dallas, Texas. My work sits at the intersection of data engineering and AI evaluation — basically, I make sure AI systems actually work the way they're supposed to, from tiny edge devices all the way up to large-scale cloud infrastructure.
-
-Right now I'm at Samsung Electronics America, and before that I spent time at AWS working on AI data after finishing my PhD.
-
 ---
 
 ### What I work on
